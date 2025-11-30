@@ -86,8 +86,8 @@ plt.title("Confusion Matrix")
 plt.show()
 
 /*
-Developed by: MONICA G
-RegisterNumber:212224040198  
+Developed by: Karna S
+RegisterNumber:212222110017 
 */
 ```
 
